@@ -1,2 +1,2 @@
-   ng to sleep
+   g to sleep
 
